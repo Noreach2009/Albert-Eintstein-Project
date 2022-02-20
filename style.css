@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin:0;
+
+}
+body{
+    background-color: antiquewhite;
+}
+
+
+.profile h2 h3 h4{
+    width: 100px;
+
+}
+    
+    
+
+
+
+.facts ul{
+    margin-left: 25px;
+    font-family:cursive
+
+}
+
+
+
+
+    
+
+.more{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+
+}
+
+
+
+
